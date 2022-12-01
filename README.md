@@ -4,4 +4,4 @@ A music app.
 
 ## Design
 
-![Screenshot](screenshots/screen.jpg)
+<img src="screenshots/screen.jpg" width="300"/>
